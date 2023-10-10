@@ -1,5 +1,5 @@
 .test{
-    background-color: rgb(98, 255, 0);
+    background-color: antiquewhite;
     max-width: 50%;
     border-radius: 10PX;
     font-size: 30PX;
@@ -7,7 +7,7 @@
     margin-left: 100px;
 }
 .test2{
-    background-color: rgb(98, 255, 0);
+    background-color: antiquewhite;
     max-width: 50%;
     border-radius: 10PX;
     font-size: 30PX;
@@ -15,7 +15,7 @@
     margin-left: 100px;
 }
 .test3{
-    background-color: rgb(98, 255, 0);
+    background-color:antiquewhite;
     max-width: 50%;
     border-radius: 10PX;
     font-size: 30PX;
@@ -23,7 +23,7 @@
     margin-left: 100px;
 }
 .test4{
-    background-color: rgb(98, 255, 0);
+    background-color:antiquewhite;
     max-width: 50%;
     border-radius: 10PX;
     font-size: 30PX;
@@ -31,7 +31,7 @@
     margin-left: 100px;
 }
 .test5{
-    background-color: rgb(98, 255, 0);
+    background-color: antiquewhite;
     max-width: 50%;
     border-radius: 10PX;
     font-size: 30PX;
@@ -39,7 +39,7 @@
     margin-left: 100px;
 }
 body{
-    background-color: rgb(183, 186, 9);
+    background-color: antiquewhite;
 }
 .form {
     margin: 0 auto;
@@ -53,7 +53,7 @@ body{
     margin-top: 5%;
     box-shadow: 0px 13px 19px 10px rgba(0, 0, 0, 0.07);
     flex-direction: column;
-    background-color: antiquewhite;
+    background-color: #5a2c34;
 
 
 }
@@ -67,9 +67,10 @@ a {
   }
   .text{
     font-size: 30px;
-    color: rgb(228, 10, 10);
+    color: #5a2c34;
     font-weight: 5px;
     margin-top: 60px;
+    font-weight: bold;
   }
 
 

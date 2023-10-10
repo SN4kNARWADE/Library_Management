@@ -10,6 +10,7 @@ body{
 }
 
 nav{
+    background-color: #4e1c26;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -20,15 +21,15 @@ nav{
     width: 150px;
     cursor: pointer;
 }
-
-.search{
-    width: 50px;
+h1{
+    text-align: center;
 }
 nav button{
     border: 0;
     outline: 0;
-    background: #db0001;
-    color: #fff;
+    background: antiquewhite;
+    color: #2a080f;
+    font-weight: bold;
     padding: 7px 20px;
     font-size: 12px;
     border-radius: 4px;

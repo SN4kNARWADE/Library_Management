@@ -1,6 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poopins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: antiquewhite;
+    color: #2a080f;
+}
+
 .book{
     align-items: center;
     justify-content: center;
+    text-align: center;
+    max-width: 30%;
 }
 .book img{
     justify-content: center;
@@ -11,10 +24,15 @@
     margin-left: 550px;
 }
 .btn{
-    background-color: aqua;
+    color: antiquewhite;
+    background-color: #6b313d;
     margin-left: 550px;
     font-size: 40px;
 }
+.btn:hover{
+    background-color: #c67888;
+}
+
 a {
     text-decoration: none;
   }
